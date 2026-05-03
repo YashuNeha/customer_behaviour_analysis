@@ -1,4 +1,4 @@
-# customer_behaviour_analysis
+# Customer_Behaviour_Analysis
 
 # 📊 Data Analytics Project – End-to-End Workflow
 
